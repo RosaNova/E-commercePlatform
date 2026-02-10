@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Monster",
+        "star": 5,
+        "price": 10.50,
+        "image": "https://i.pinimg.com/1200x/01/e1/e9/01e1e973cedd17b9a4e44fb832cd4e19.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Coca-Cola",
+        "star": 4,
+        "price": 20.20,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Red-Bull",
+        "star": 30.40,
+        "price": 30,
+        "image": "https://i.pinimg.com/736x/ea/e3/0c/eae30cde02d4a37bd4e7b03a617b5745.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bolo",
+        "price": 40.50,
+        "star": 5,
+        "image": "https://i.pinimg.com/736x/80/e7/95/80e7953970ea20adbe9b18df2f0e56c2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Eleccta",
+        "price": 50.50,
+        "star": 4,
+        "image": "https://i.pinimg.com/736x/e6/b1/e9/e6b1e9a6478af76e86206fa01e42bd04.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Monster Crystal",
+        "price": 60.50,
+        "star": 3,
+        "image": "https://i.pinimg.com/1200x/57/fd/9d/57fd9d07e7630f42bae7160679ebd50b.jpg"
+    }
+]
