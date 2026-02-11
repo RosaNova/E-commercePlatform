@@ -11,12 +11,12 @@
         "name": "Coca-Cola",
         "star": 4,
         "price": 20.20,
-        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        "image": "https://i.pinimg.com/736x/57/9d/b4/579db43282e6242e59ec02d06d3d7fc6.jpg"
     },
     {
         "id": 3,
         "name": "Red-Bull",
-        "star": 30.40,
+        "star": 4,
         "price": 30,
         "image": "https://i.pinimg.com/736x/ea/e3/0c/eae30cde02d4a37bd4e7b03a617b5745.jpg"
     },
@@ -40,5 +40,19 @@
         "price": 60.50,
         "star": 3,
         "image": "https://i.pinimg.com/1200x/57/fd/9d/57fd9d07e7630f42bae7160679ebd50b.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Lemon Soda",
+        "price": 50.50,
+        "star": 4,
+        "image": "https://i.pinimg.com/736x/b9/b5/8e/b9b58e650966f44bbf652539a07f7bff.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Berry Bang",
+        "price": 60.50,
+        "star": 3,
+        "image": "https://i.pinimg.com/1200x/f0/a3/18/f0a318eaad59aa35a9a5965fb03cc456.jpg"
     }
 ]
