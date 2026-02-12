@@ -3,6 +3,7 @@
         "id": 1,
         "name": "Monster",
         "star": 5,
+        "quantity": 1,
         "price": 10.50,
         "image": "https://i.pinimg.com/1200x/01/e1/e9/01e1e973cedd17b9a4e44fb832cd4e19.jpg"
     },
@@ -10,12 +11,14 @@
         "id": 2,
         "name": "Coca-Cola",
         "star": 4,
+        "quantity": 1,
         "price": 20.20,
         "image": "https://i.pinimg.com/736x/57/9d/b4/579db43282e6242e59ec02d06d3d7fc6.jpg"
     },
     {
         "id": 3,
         "name": "Red-Bull",
+        "quantity": 1,
         "star": 4,
         "price": 30,
         "image": "https://i.pinimg.com/736x/ea/e3/0c/eae30cde02d4a37bd4e7b03a617b5745.jpg"
@@ -23,6 +26,7 @@
     {
         "id": 4,
         "name": "Bolo",
+        "quantity": 1,
         "price": 40.50,
         "star": 5,
         "image": "https://i.pinimg.com/736x/80/e7/95/80e7953970ea20adbe9b18df2f0e56c2.jpg"
@@ -30,6 +34,7 @@
     {
         "id": 5,
         "name": "Eleccta",
+        "quantity": 1,
         "price": 50.50,
         "star": 4,
         "image": "https://i.pinimg.com/736x/e6/b1/e9/e6b1e9a6478af76e86206fa01e42bd04.jpg"
@@ -38,12 +43,14 @@
         "id": 6,
         "name": "Monster Crystal",
         "price": 60.50,
+        "quantity": 1,
         "star": 3,
         "image": "https://i.pinimg.com/1200x/57/fd/9d/57fd9d07e7630f42bae7160679ebd50b.jpg"
     },
     {
         "id": 7,
         "name": "Lemon Soda",
+        "quantity": 1,
         "price": 50.50,
         "star": 4,
         "image": "https://i.pinimg.com/736x/b9/b5/8e/b9b58e650966f44bbf652539a07f7bff.jpg"
@@ -53,6 +60,7 @@
         "name": "Berry Bang",
         "price": 60.50,
         "star": 3,
+        "quantity": 1,
         "image": "https://i.pinimg.com/1200x/f0/a3/18/f0a318eaad59aa35a9a5965fb03cc456.jpg"
     }
 ]
